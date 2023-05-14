@@ -1,6 +1,7 @@
 Practise:
-    Express
-    Routing
-    Handle Bar
-    Controller
-    Deploy Vercel
+    Express: Done
+    Routing: Done
+    Handle Bar: Done
+    Controller: Done
+    Deploy Vercel: in test
+    
