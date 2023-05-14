@@ -21,8 +21,11 @@ app.set('views', path.join(__dirname, '/src/views'))
 
 // API End Point
 app.get('/', (req, res) => {
-    // res.status(200).send(`Halaooooo`)
     res.render('home')
+})
+
+app.get('/news', (req, res) => {
+    res.render('news')
 })
 
 app.use('/api', router)
